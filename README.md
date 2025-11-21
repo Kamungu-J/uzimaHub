@@ -33,15 +33,15 @@ Uzimahub is a personal wellness tracker that helps users monitor their meals, ex
 
 Screenshots
 
-![Home Page](path/to/homepage-screenshot.png)  
-![Dashboard](path/to/dashboard-screenshot.png)  
-![Meals](path/to/meals-screenshot.png)  
-![Exercises](path/to/exercises-screenshot.png)  
-![Reminders](path/to/reminders-screenshot.png)  
+![Home Page](frontend/assets/screenshots/homepage.png)  
+![Dashboard](frontend/assets/screenshots/Dashboard.png)
+![Meals](frontend/assets/screenshots/Meals.png)  
+![Exercises](frontend/assets/screenshots/Exercises.png)
+![Reminders](frontend/assets/screenshots/Reminders.png)
 
 ## Live Site
 
-[Visit uzimaHub](https://your-live-url.com)
+[Visit uzimaHub] https://uzima-hub-p5dk.vercel.app/
 
 
 ## Technologies Used
